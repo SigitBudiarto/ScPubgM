@@ -1,2 +1,0 @@
-# ScPubgM
-Script PUBG M
